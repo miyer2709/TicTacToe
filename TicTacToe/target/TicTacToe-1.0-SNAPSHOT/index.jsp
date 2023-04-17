@@ -14,7 +14,7 @@
         <title>Tic Tac Toe</title>
     </head> 
     <body>
-        <h1>Tic Tac Toe</h1>
+        <h1>Tic Tac Toe VERSION 2.0</h1>
         <form action="EntryServlet" method="post">
             <input type="submit" name="User" value="You start"><br/>
             <input type="submit" name="Computer" value="The computer starts">
